@@ -1,4 +1,4 @@
 #pragma once
 
 void sorted_1();
-void sorted_2();
+void vector_2();
