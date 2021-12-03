@@ -33,7 +33,7 @@ void sorted_1()
     cout << endl;
 }
 
-void sorted_2()
+void vector_2()
 {
     vector<double> v(100);
 
