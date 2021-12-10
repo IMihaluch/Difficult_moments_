@@ -54,7 +54,10 @@ void function_2()
             t.join();
         }
     }
-
+        for (const auto &a : answers)
+   {
+            std::cout << "Number " << a << " simple" << std::endl;
+        }
     timer.print();
 
     answers.clear();
@@ -69,6 +72,9 @@ void function_2()
             answers.push_back(i);
         }
     }
-       
+        for (const auto &a : answers)
+   {
+            std::cout << "Number " << a << " simple" << std::endl;
+        }
     timer.print();
 }
