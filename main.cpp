@@ -1,9 +1,9 @@
-#include "protoclasses.hpp"
+#include "class_2.hpp"
 #include "interfaces.hpp"
 
 int main()
 {
-    protoclasses();
+    class_2();
     interfaces();
 
     return 0;
